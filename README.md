@@ -25,6 +25,7 @@ I am currently studying economics at the Astrakhan State University, I have alre
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=java-project-72&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/java-project-72)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=java-project-73&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/java-project-73)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=java-project-78&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/java-project-78)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=sql-parser&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/sql-parser)
 
 ### Badges
 
