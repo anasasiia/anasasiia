@@ -21,7 +21,7 @@ I am currently studying economics at the Astrakhan State University, I have alre
 ### My projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=brain-games&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/brain-games)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=java-project-71&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/java-project-71)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=difference-calculator&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/difference-calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=java-project-72&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/java-project-72)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=java-project-73&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/java-project-73)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=java-project-78&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/java-project-78)
