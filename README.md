@@ -22,9 +22,9 @@ I am currently studying economics at the Astrakhan State University, I have alre
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=brain-games&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/brain-games)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=difference-calculator&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/difference-calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=java-project-72&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/java-project-72)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=java-project-73&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/java-project-73)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=java-project-78&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/java-project-78)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=seo-analyzer&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/seo-analyzer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=task-manager&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/task-manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=data-validator&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/data-validator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasasiia&repo=sql-parser&theme=dark&bg_color=00000000&)](https://github.com/anasasiia/sql-parser)
 
 ### Badges
