@@ -6,7 +6,6 @@ I am currently studying economics at the Astrakhan State University, I have alre
 *   🌍  I'm based in Astrakhan, but ready to move to Moscow
 *   ✉️  You can contact me at [anastasiiamineeva@gmail.com](mailto:anastasiiamineeva@gmail.com)
 *   ⚡  I love cooking, anime and making videos
-*   🔭 I’m currently working on SQL parser and reading SICP
 
 ### Skills
 
